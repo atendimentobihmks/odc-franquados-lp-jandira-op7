@@ -9,7 +9,7 @@ Landing Page Institucional e de Alta Conversão em React 19 + TypeScript + Vite 
 * **Endereço:** Av. Carmine Gragnano, 63 • Centro, Jandira/SP - CEP 06600-010
 * **WhatsApp:** (11) 4619-2692 (`5511983456317`)
 * **Instagram:** https://www.instagram.com/odontocompany_jandira/
-* **Facebook:** https://web.facebook.com/odontocompany_jandira/
+* **Facebook:** https://www.facebook.com/odontocompany_jandira/
 
 ---
 

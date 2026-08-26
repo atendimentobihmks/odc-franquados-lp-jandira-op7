@@ -49,11 +49,11 @@ export const UNITS_DATA: Record<string, UnitData> = {
   jandira: {
     id: 'jandira',
     name: 'Jandira',
-    phone: '(11) 4619-2692',
-    whatsapp: '5511983456317',
+    phone: '(11) 95023-9857',
+    whatsapp: '5511950239857',
     whatsappMessage: 'Olá! Gostaria de agendar uma consulta de avaliação na OdontoCompany Jandira.',
-    instagramUrl: 'https://www.instagram.com/odontocompany_jandira/',
-    facebookUrl: 'https://web.facebook.com/odontocompany_jandira/',
+    instagramUrl: 'https://www.instagram.com/odontocompany/',
+    facebookUrl: 'https://www.facebook.com/odontocompany',
     croCl: 'CRO-SP 142.214',
     address: {
       street: 'Av. Carmine Gragnano',
